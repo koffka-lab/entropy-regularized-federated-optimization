@@ -1,5 +1,17 @@
-# entropy-regularized-federated-optimization
+# Entropy-Regularized Federated Optimization for Non-IID Data
 This repository is the complete reproducibility package for the paper Entropy-Regularized Federated Optimization under Non-IID Data. It provides ready-to-run code, configuration files, and analysis scripts that benchmark ERFO against nine widely used baselines—FedAvg, FedProx, SCAFFOLD, FedNova, FedDyn, FedCurv, FedAdam, FedYogi, and Ditto.
+
+MDPI and ACS Style
+Khan, K. Entropy-Regularized Federated Optimization for Non-IID Data. Algorithms 2025, 18, 455. https://doi.org/10.3390/a18080455
+
+AMA Style
+Khan K. Entropy-Regularized Federated Optimization for Non-IID Data. Algorithms. 2025; 18(8):455. https://doi.org/10.3390/a18080455
+
+Chicago/Turabian Style
+Khan, Koffka. 2025. "Entropy-Regularized Federated Optimization for Non-IID Data" Algorithms 18, no. 8: 455. https://doi.org/10.3390/a18080455
+
+APA Style
+Khan, K. (2025). Entropy-Regularized Federated Optimization for Non-IID Data. Algorithms, 18(8), 455. https://doi.org/10.3390/a18080455
 
 Entropy-Regularized Federated Optimization (ERFO)  
 ================================================
